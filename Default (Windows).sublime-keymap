@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+alt+left"], "command": "resize_active_group", "args" : { "direction" : "left" } },
+	{ "keys": ["ctrl+alt+right"], "command": "resize_active_group", "args" : { "direction" : "right" } },
+	{ "keys": ["ctrl+alt+up"], "command": "resize_active_group", "args" : { "direction" : "up" } },
+	{ "keys": ["ctrl+alt+down"], "command": "resize_active_group", "args" : { "direction" : "down" } }
+]
