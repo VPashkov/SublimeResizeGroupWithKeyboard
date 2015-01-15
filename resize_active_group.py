@@ -17,11 +17,11 @@ def plugin_loaded():
 def load_deltas():
 	global delta_up, delta_down, delta_left, delta_right
 
-	delta_default = settings.get("delta_default", 0.1)
-	delta_up = settings.get("delta_up", delta_default)
-	delta_down = settings.get("delta_down", delta_default)
-	delta_left = settings.get("delta_left", delta_default)
-	delta_right = settings.get("delta_right", delta_default)
+	delta_default = settings.get("resize_delta_default", 0.01)
+	delta_up = settings.get("resize_delta_up", delta_default)
+	delta_down = settings.get("resize_delta_down", delta_default)
+	delta_left = settings.get("resize_delta_left", delta_default)
+	delta_right = settings.get("resize_delta_right", delta_default)
 
 XMIN, YMIN, XMAX, YMAX = range(4)
 
