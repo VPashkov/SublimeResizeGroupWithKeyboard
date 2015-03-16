@@ -8,12 +8,12 @@
                 "id": "package-settings",
                 "children": [
                     {
-                        "caption": "Resize Group With Keyboard",
+                        "caption": "Resize Group with Keyboard",
                         "children": [
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/README.md",
+                                    "file": "${packages}/Resize Group with Keyboard/README.md",
                                     "platform": "Windows"
                                 },
                                 "caption": "Help"
@@ -21,7 +21,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/README.md",
+                                    "file": "${packages}/Resize Group with Keyboard/README.md",
                                     "platform": "OSX"
                                 },
                                 "caption": "Help"
@@ -29,7 +29,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/README.md",
+                                    "file": "${packages}/Resize Group with Keyboard/README.md",
                                     "platform": "Linux"
                                 },
                                 "caption": "Help"
@@ -40,7 +40,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/resize_active_group.sublime-settings",
+                                    "file": "${packages}/Resize Group with Keyboard/resize_active_group.sublime-settings",
                                     "platform": "Windows"
                                 },
                                 "caption": "Settings - Default"
@@ -48,7 +48,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/resize_active_group.sublime-settings",
+                                    "file": "${packages}/Resize Group with Keyboard/resize_active_group.sublime-settings",
                                     "platform": "OSX"
                                 },
                                 "caption": "Settings - Default"
@@ -56,7 +56,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/resize_active_group.sublime-settings",
+                                    "file": "${packages}/Resize Group with Keyboard/resize_active_group.sublime-settings",
                                     "platform": "Linux"
                                 },
                                 "caption": "Settings - Default"
@@ -91,7 +91,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/Resize Group with Keyboard/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings - Default"
@@ -99,7 +99,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/Resize Group with Keyboard/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings - Default"
@@ -107,7 +107,7 @@
                             {
                             "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Resize Group With Keyboard/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/Resize Group with Keyboard/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings - Default"
