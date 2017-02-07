@@ -1,6 +1,6 @@
 [
-	{ "keys": ["super+shift+left"], "command": "resize_active_group", "args" : { "direction" : "left" } },
-	{ "keys": ["super+shift+right"], "command": "resize_active_group", "args" : { "direction" : "right" } },
-	{ "keys": ["super+shift+up"], "command": "resize_active_group", "args" : { "direction" : "up" } },
-	{ "keys": ["super+shift+down"], "command": "resize_active_group", "args" : { "direction" : "down" } }
+	{ "keys": ["super+alt+left"], "command": "resize_active_group", "args" : { "direction" : "left" } },
+	{ "keys": ["super+alt+right"], "command": "resize_active_group", "args" : { "direction" : "right" } },
+	{ "keys": ["super+alt+up"], "command": "resize_active_group", "args" : { "direction" : "up" } },
+	{ "keys": ["super+alt+down"], "command": "resize_active_group", "args" : { "direction" : "down" } }
 ]

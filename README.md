@@ -9,8 +9,8 @@ Sublime Text 2 and 3 Plugin to resize active group with keyboard
 
  * Press ⌘-⌥-right to expand active group horizontally.
  * Press ⌘-⌥-left to shrink active group horizontally.
- * Press ⌘-⇧-up to expand active group vertically.
- * Press ⌘-⇧-down to shrink active group vertically.
+ * Press ⌘-⌥-up to expand active group vertically.
+ * Press ⌘-⌥-down to shrink active group vertically.
 
 ### Windows & Linux:
 
