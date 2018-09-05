@@ -6,11 +6,22 @@
 {
     // The delta value used when resizing the active group. It is set to 0.01 (1 %) by default.
     // It does not make much sense for it to have a higher value than 0.5 (50 %).
-    "resize_delta_default": 0.01
+    "resize_delta_default": 0.01,
 
-    // Optionally, comment in the lines below if you'd want per-direction resize of the groups.
+    // Optionally, uncomment the lines below if you'd want per-direction resize of the groups.
     // "resize_delta_up": 0.1,
     // "resize_delta_down": 0.1,
     // "resize_delta_left": 0.1,
     // "resize_delta_right": 0.1
+
+
+    // Vertical and horizontal padding – space between splitter and window border.
+    "resize_vertical_padding_default": 0.05,
+    "resize_horizontal_padding_default": 0.03
+
+    // Optionally, uncomment the lines below if you'd want per-direction padding.
+    // "resize_padding_up": 0.05,
+    // "resize_padding_down": 0.05,
+    // "resize_padding_left": 0.03,
+    // "resize_padding_right": 0.03
 }
